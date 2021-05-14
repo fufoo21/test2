@@ -37,14 +37,14 @@ a:link, a:visited, a:hover, a:active {
 .header {
 	width: 100%;
 	padding: 28px 0 10px;
-	background: url('../image/bg-header.gif') repeat-x;
+	background: url('../images/bg-header.gif') repeat-x;
 	box-shadow: 0 0 10px 1px #e3e3e3;
 }
 .logo {
 	width: 225px;
 	height: 56px;
 	margin: 0 auto;
-	background: url('../image/logo.png') no-repeat;
+	background: url('../images/logo.png') no-repeat;
 	overflow: hidden;
 	tezt-indent: 100%;
 	white-space: nowrap;
