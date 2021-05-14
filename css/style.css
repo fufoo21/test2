@@ -45,9 +45,9 @@ a:link, a:visited, a:hover, a:active {
 	height: 56px;
 	margin: 0 auto;
 	background: url('../images/logo.png') no-repeat;
-	overflow: hidden;
-	tezt-indent: 100%;
+	text-indent: 100%;
 	white-space: nowrap;
+	overflow: hidden;
 }
 .logo a {
 	display: block;
