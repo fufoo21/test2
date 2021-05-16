@@ -27,7 +27,9 @@ a:link, a:visited, a:hover, a:active {
 	display: block;
 	clear: both;
 }
-
+.hidden {
+	display: none;
+}
 
 
 
@@ -98,9 +100,28 @@ a:link, a:visited, a:hover, a:active {
 	float: left;
 	width: 660px;
 }
-
-
-
+.hot-topic {
+	display: block;
+	width: 300px;
+	margin-bottom: 30px;
+	box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.15)
+	trantision: opacity 0.15s;
+}
+.hot-topic:hover {
+	opacity: 0.85;
+}
+.hot-topic .image {
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+.hot-topic .content {
+	float: left;
+	width: 50%;
+	height: 100%;
+	padding: 105px 25px 0;
+	background-color: #2d3d54;
+}
 
 /* --------------------------------
  * sidemenu
