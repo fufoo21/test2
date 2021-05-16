@@ -102,7 +102,7 @@ a:link, a:visited, a:hover, a:active {
 }
 .hot-topic {
 	display: block;
-	width: 300px;
+	height: 300px;
 	margin-bottom: 30px;
 	box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.15);
 	transition: opacity 0.15s;
