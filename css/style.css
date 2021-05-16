@@ -104,8 +104,8 @@ a:link, a:visited, a:hover, a:active {
 	display: block;
 	width: 300px;
 	margin-bottom: 30px;
-	box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.15)
-	trantision: opacity 0.15s;
+	box-shadow: 0 6px 4px -4px rgba(0, 0, 0, 0.15);
+	transition: opacity 0.15s;
 }
 .hot-topic:hover {
 	opacity: 0.85;
@@ -124,7 +124,7 @@ a:link, a:visited, a:hover, a:active {
 	background-color: #2d3d54;
 	line-height: 1.6;
 }
-.hot-topic title {
+.hot-topic .title {
 	margin-bottom: 15px;
 	color: #fff;
 	font-weight: normal;
@@ -134,7 +134,7 @@ a:link, a:visited, a:hover, a:active {
 	color: #ddc;
 }
 .hot-topic .date {
-	position: absolute;
+	position: absolute;x
 	top: 60px;
 	left: 0;
 	width: 140px;
