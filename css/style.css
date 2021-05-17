@@ -187,10 +187,10 @@ a:link, a:visited, a:hover, a:active {
 	color: #fff;
 	text-align: center;
 	letter-spacing: 1px;
-	font-size:1.0rem;
+	font-size: 1.0rem;
 	line-hight: 16px;
 }
-.scroll-list .category new {
+.scroll-list .category .news {
 	background-color: #2c3c53;
 }
 .scroll-list .title {
