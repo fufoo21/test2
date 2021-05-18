@@ -291,7 +291,7 @@ a:link, a:visited, a:hover, a:active {
 	vertical-align: 20px;
 	text-align: center;
 	font-weight: bold;
-	line-haight: 16px;
+	line-height: 16px;
 	-webkit-transform: rotate(45deg);
 	-ms-transform:rotate(45deg);
 	transform: rotate(45deg);
