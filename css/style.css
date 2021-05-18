@@ -306,6 +306,7 @@ a:link, a:visited, a:hover, a:active {
 .ranking .ranking-item:nth-of-type(2) .order,
 .ranking .ranking-item:nth-of-type(3) .order {
 	line-height: 20px;
+	color: #fff;
 }
 /*
 .ranking .order {
