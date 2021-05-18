@@ -288,7 +288,7 @@ a:link, a:visited, a:hover, a:active {
 	margin: 0 10px;
 	border: 1px solid #ccc;
 	color: #aaa;
-	vertical-align: 20px;
+	/*vertical-align: 20px;*/
 	text-align: center;
 	font-weight: bold;
 	line-height: 16px;
