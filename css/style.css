@@ -222,7 +222,7 @@ a:link, a:visited, a:hover, a:active {
 	float: right;
 }
 .article-box .title {
-	margin-top: 30px;
+	margin-top: 20px;
 	color: #555;
 	font-size: 1.4rem;
 	line-height: 1.6;
@@ -237,11 +237,11 @@ a:link, a:visited, a:hover, a:active {
 .article-box .date {
 	position: absolute;
 	right: 0;
-	bottom: 25px;
+	bottom: 20px;
 	display: block;
 	width: 160px;
 	padding: 4px;
-	background-color: #66cdaa;
+	background-color: #40e0d0;
 	color: #2d3d54;
 	text-align: center;
 	letter-spacing: 1px;
